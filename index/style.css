@@ -1,0 +1,17 @@
+.setFilm {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+.setFilm input {
+  padding: 0.4rem 1rem;
+  border-radius: 0.7rem;
+  width: 60%;
+}
+.setFilm button {
+  cursor: pointer;
+  padding: 0.4rem 1rem;
+  border-radius: 0.7rem;
+  font-weight: 700;
+}

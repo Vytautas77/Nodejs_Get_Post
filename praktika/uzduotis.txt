@@ -1,0 +1,19 @@
+TASKS
+1. Parašyt endpointą kuris leistu atspauzdint concolėje 
+filmo rekomendaciją, filmo rekomendacija susideda 
+iš: id, title, raiting, description, imdbLink;
+2.Pamodifikuot endpointą, sugebėtu išsaugoti filmo 
+rekomendaciją;
+3. Parašyt endpointą kuris parsiųstu visas idėtas rekomendacijas;
+4. Parašyt endpointą kuris gražintu visas rekomendacijas išrikiuotas mažėjimo 
+tvarka pagal reitingą;
+5. Parašyt endpointą kuris ištrintų visas rekomendacijas;
+6. Patobulint add movie endpointą, kad jus neleistu pridėti filmo su jau 
+egzistuojančiu id;
+7. CAO;
+
+1. Prie vakarykštės užduoties reikia pridėti getById endpointą;
+2. Dadėt endpointą, watched/:id bei pazymet, kad filmas buvo matytas
+( kai objektas sukuriamas reiksme yra false default);
+3. Per front-end sukurt formą kuri įdėtu rezultatą įdėtu filmą į servisą;
+4. CAO 4
